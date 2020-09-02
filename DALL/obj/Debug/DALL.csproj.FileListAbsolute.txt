@@ -1,0 +1,19 @@
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\DALL\bin\Debug\DALL.dll.config
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\DALL\bin\Debug\DALL.dll
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\DALL\bin\Debug\DALL.pdb
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\DALL\obj\Debug\DALL.csprojResolveAssemblyReference.cache
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\DALL\obj\Debug\DALL.dll
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\DALL\obj\Debug\DALL.pdb
+C:\Users\USUARIO\Desktop\MiniSuper\DALL\bin\Debug\DALL.dll.config
+C:\Users\USUARIO\Desktop\MiniSuper\DALL\bin\Debug\DALL.dll
+C:\Users\USUARIO\Desktop\MiniSuper\DALL\bin\Debug\DALL.pdb
+C:\Users\USUARIO\Desktop\MiniSuper\DALL\obj\Debug\DALL.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\MiniSuper\DALL\obj\Debug\DALL.dll
+C:\Users\USUARIO\Desktop\MiniSuper\DALL\obj\Debug\DALL.pdb
+F:\Proyectos\MiniSuper\DALL\bin\Debug\DALL.dll.config
+F:\Proyectos\MiniSuper\DALL\bin\Debug\DALL.dll
+F:\Proyectos\MiniSuper\DALL\bin\Debug\DALL.pdb
+F:\Proyectos\MiniSuper\DALL\obj\Debug\DALL.csprojAssemblyReference.cache
+F:\Proyectos\MiniSuper\DALL\obj\Debug\DALL.csproj.CoreCompileInputs.cache
+F:\Proyectos\MiniSuper\DALL\obj\Debug\DALL.dll
+F:\Proyectos\MiniSuper\DALL\obj\Debug\DALL.pdb

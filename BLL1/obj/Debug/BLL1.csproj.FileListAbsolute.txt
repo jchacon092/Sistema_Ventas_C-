@@ -1,0 +1,24 @@
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\BLL1\bin\Debug\BLL1.dll
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\BLL1\bin\Debug\BLL1.pdb
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\BLL1\bin\Debug\DALL.dll
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\BLL1\bin\Debug\DALL.pdb
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\BLL1\obj\Debug\BLL1.csprojResolveAssemblyReference.cache
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\BLL1\obj\Debug\BLL1.dll
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\BLL1\obj\Debug\BLL1.pdb
+C:\Users\USUARIO\Desktop\MiniSuper\BLL1\bin\Debug\BLL1.dll
+C:\Users\USUARIO\Desktop\MiniSuper\BLL1\bin\Debug\BLL1.pdb
+C:\Users\USUARIO\Desktop\MiniSuper\BLL1\bin\Debug\DALL.dll
+C:\Users\USUARIO\Desktop\MiniSuper\BLL1\bin\Debug\DALL.pdb
+C:\Users\USUARIO\Desktop\MiniSuper\BLL1\obj\Debug\BLL1.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\MiniSuper\BLL1\obj\Debug\BLL1.dll
+C:\Users\USUARIO\Desktop\MiniSuper\BLL1\obj\Debug\BLL1.pdb
+F:\Proyectos\MiniSuper\BLL1\bin\Debug\BLL1.dll
+F:\Proyectos\MiniSuper\BLL1\bin\Debug\BLL1.pdb
+F:\Proyectos\MiniSuper\BLL1\bin\Debug\DALL.dll
+F:\Proyectos\MiniSuper\BLL1\bin\Debug\DALL.pdb
+F:\Proyectos\MiniSuper\BLL1\bin\Debug\DALL.dll.config
+F:\Proyectos\MiniSuper\BLL1\obj\Debug\BLL1.csprojAssemblyReference.cache
+F:\Proyectos\MiniSuper\BLL1\obj\Debug\BLL1.csproj.CoreCompileInputs.cache
+F:\Proyectos\MiniSuper\BLL1\obj\Debug\BLL1.csproj.CopyComplete
+F:\Proyectos\MiniSuper\BLL1\obj\Debug\BLL1.dll
+F:\Proyectos\MiniSuper\BLL1\obj\Debug\BLL1.pdb

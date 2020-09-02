@@ -1,0 +1,72 @@
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe.config
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csprojResolveAssemblyReference.cache
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormUsuario.resources
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.Properties.Resources.resources
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.GenerateResource.Cache
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\bin\Debug\MiniSuper.pdb
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\bin\Debug\DALL.dll
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\bin\Debug\DALL.pdb
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.exe
+c:\users\edgar lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.pdb
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\bin\Debug\BLL1.dll
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\bin\Debug\BLL1.pdb
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormEmpleado.resources
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormMenu.resources
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormProducto.resources
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormProveedor.resources
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormSerie.resources
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormCompra.resources
+C:\Users\Edgar Lopez\documents\visual studio 2015\Projects\MiniSuper\MiniSuper\obj\Debug\MiniSuper.Factura.resources
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe.config
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.exe
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.pdb
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\bin\Debug\MiniSuper.pdb
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\bin\Debug\BLL1.dll
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\bin\Debug\DALL.dll
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\bin\Debug\BLL1.pdb
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\bin\Debug\DALL.pdb
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.Factura.resources
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormCompra.resources
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormEmpleado.resources
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormMenu.resources
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormProducto.resources
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormProveedor.resources
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormSerie.resources
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormUsuario.resources
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.GenerateResource.Cache
+C:\Users\Edgar Lopez\Documents\Visual Studio 2015\Projects\MiniSuper\MiniSuper\bin\Debug\itextsharp.dll
+C:\Users\Edgar Lopez\Documents\Visual Studio 2015\Projects\MiniSuper\MiniSuper\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Edgar Lopez\Documents\Visual Studio 2015\Projects\MiniSuper\MiniSuper\bin\Debug\itextsharp.xml
+C:\Users\HP\Documents\BACKUP 03-09-2016\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe.config
+C:\Users\HP\Documents\BACKUP 03-09-2016\MiniSuper\MiniSuper\obj\Debug\MiniSuper.exe
+C:\Users\HP\Documents\BACKUP 03-09-2016\MiniSuper\MiniSuper\obj\Debug\MiniSuper.pdb
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe.config
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\MiniSuper.pdb
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\BLL1.dll
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\itextsharp.dll
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\itextsharp.pdfa.dll
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\DALL.dll
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\BLL1.pdb
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\itextsharp.xml
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\DALL.pdb
+F:\Proyectos\MiniSuper\MiniSuper\bin\Debug\DALL.dll.config
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csprojAssemblyReference.cache
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.Factura.resources
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormCompra.resources
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormEmpleado.resources
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormMenu.resources
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormProducto.resources
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormProveedor.resources
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormSerie.resources
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FormUsuario.resources
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.Properties.Resources.resources
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.GenerateResource.cache
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.CoreCompileInputs.cache
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.CopyComplete
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.exe
+F:\Proyectos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.pdb
